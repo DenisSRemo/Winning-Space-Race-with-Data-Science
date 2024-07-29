@@ -54,11 +54,4 @@ To run this project locally, follow these steps:
 4. Run the Jupyter notebooks for data analysis and model training.
 5. Start the dashboard: `python dashboard.py`
 
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-Special thanks to all data providers and open-source contributors whose tools and libraries made this project possible.
